@@ -1,0 +1,172 @@
+2025-04-02 21:27:48,088 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-02 21:27:48,088 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-02 21:27:48,110 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:27:48,624 - WARNING -  * Debugger is active!
+2025-04-02 21:27:48,633 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 21:28:08,697 - INFO - API Call - Response Time: 1.462s, Status: 200
+2025-04-02 21:28:08,699 - INFO - 127.0.0.1 - - [02/Apr/2025 21:28:08] "GET /api/test HTTP/1.1" 200 -
+2025-04-02 21:28:08,822 - INFO - 127.0.0.1 - - [02/Apr/2025 21:28:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-02 21:28:35,269 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-02 21:28:35,270 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-02 21:28:35,279 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:28:35,678 - WARNING -  * Debugger is active!
+2025-04-02 21:28:35,682 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 21:29:12,923 - INFO - API Call - Response Time: 1.077s, Status: 200
+2025-04-02 21:29:12,925 - INFO - 127.0.0.1 - - [02/Apr/2025 21:29:12] "GET /api/test HTTP/1.1" 200 -
+2025-04-02 21:29:14,080 - INFO - API Call - Response Time: 1.132s, Status: 200
+2025-04-02 21:29:14,081 - INFO - 127.0.0.1 - - [02/Apr/2025 21:29:14] "GET /api/test HTTP/1.1" 200 -
+2025-04-02 21:31:22,030 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zoneinfo\\__init__.py', reloading
+2025-04-02 21:31:22,033 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zoneinfo\\_tzpath.py', reloading
+2025-04-02 21:31:22,037 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zoneinfo\\_common.py', reloading
+2025-04-02 21:31:22,061 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_strptime.py', reloading
+2025-04-02 21:31:22,245 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc.py', reloading
+2025-04-02 21:31:22,278 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\__init__.py', reloading
+2025-04-02 21:31:22,282 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\pager.py', reloading
+2025-04-02 21:31:22,768 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\__init__.py', reloading
+2025-04-02 21:31:22,771 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_events.py', reloading
+2025-04-02 21:31:22,785 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\__init__.py', reloading
+2025-04-02 21:31:22,788 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\__init__.py', reloading
+2025-04-02 21:31:22,790 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\_base.py', reloading
+2025-04-02 21:31:22,797 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\constants.py', reloading
+2025-04-02 21:31:22,799 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\coroutines.py', reloading
+2025-04-02 21:31:22,803 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\events.py', reloading
+2025-04-02 21:31:22,807 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\format_helpers.py', reloading
+2025-04-02 21:31:22,813 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_futures.py', reloading
+2025-04-02 21:31:22,815 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\exceptions.py', reloading
+2025-04-02 21:31:22,817 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_tasks.py', reloading
+2025-04-02 21:31:22,820 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\futures.py', reloading
+2025-04-02 21:31:22,823 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\protocols.py', reloading
+2025-04-02 21:31:22,825 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\sslproto.py', reloading
+2025-04-02 21:31:22,831 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\transports.py', reloading
+2025-04-02 21:31:22,833 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\log.py', reloading
+2025-04-02 21:31:22,836 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\staggered.py', reloading
+2025-04-02 21:31:22,838 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\locks.py', reloading
+2025-04-02 21:31:22,842 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\mixins.py', reloading
+2025-04-02 21:31:22,845 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\tasks.py', reloading
+2025-04-02 21:31:22,851 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\queues.py', reloading
+2025-04-02 21:31:22,855 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\timeouts.py', reloading
+2025-04-02 21:31:22,858 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\trsock.py', reloading
+2025-04-02 21:31:22,863 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\runners.py', reloading
+2025-04-02 21:31:22,886 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\streams.py', reloading
+2025-04-02 21:31:22,889 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\subprocess.py', reloading
+2025-04-02 21:31:22,891 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\taskgroups.py', reloading
+2025-04-02 21:31:22,892 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\threads.py', reloading
+2025-04-02 21:31:22,894 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\windows_events.py', reloading
+2025-04-02 21:31:22,895 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\base_subprocess.py', reloading
+2025-04-02 21:31:22,898 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\proactor_events.py', reloading
+2025-04-02 21:31:22,907 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\selector_events.py', reloading
+2025-04-02 21:31:22,917 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\asyncio\\windows_utils.py', reloading
+2025-04-02 21:31:22,947 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\process.py', reloading
+2025-04-02 21:31:23,035 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:31:23,477 - WARNING -  * Debugger is active!
+2025-04-02 21:31:23,483 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 21:31:24,418 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\util.py', reloading
+2025-04-02 21:31:24,545 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:31:24,961 - WARNING -  * Debugger is active!
+2025-04-02 21:31:24,966 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 21:32:50,843 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\raw_unicode_escape.py', reloading
+2025-04-02 21:32:50,846 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\unicode_escape.py', reloading
+2025-04-02 21:32:51,081 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\thread.py', reloading
+2025-04-02 21:32:51,156 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:32:51,592 - WARNING -  * Debugger is active!
+2025-04-02 21:32:51,598 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 21:32:51,707 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyparsing\\core.py', reloading
+2025-04-02 21:32:52,170 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\utf_16_be.py', reloading
+2025-04-02 21:32:52,662 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:32:53,084 - WARNING -  * Debugger is active!
+2025-04-02 21:32:53,091 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 21:32:53,236 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\env_util.py', reloading
+2025-04-02 21:32:53,237 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
+2025-04-02 21:32:53,237 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\elements\\heading.py', reloading
+2025-04-02 21:32:53,238 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
+2025-04-02 21:32:54,150 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:32:54,592 - WARNING -  * Debugger is active!
+2025-04-02 21:32:54,598 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 21:33:45,518 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\curses\\__init__.py', reloading
+2025-04-02 21:33:45,770 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:33:46,121 - WARNING -  * Debugger is active!
+2025-04-02 21:33:46,125 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 21:35:47,708 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\webbrowser.py', reloading
+2025-04-02 21:35:48,400 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:35:48,765 - WARNING -  * Debugger is active!
+2025-04-02 21:35:48,961 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 21:35:52,350 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-04-02 21:35:52,351 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-04-02 21:35:52,353 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py', reloading
+2025-04-02 21:35:53,042 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:35:53,621 - WARNING -  * Debugger is active!
+2025-04-02 21:35:53,628 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 21:59:50,453 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 21:59:50,459 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 21:59:50,461 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 21:59:50,968 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 21:59:51,681 - WARNING -  * Debugger is active!
+2025-04-02 21:59:51,686 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:00:03,176 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-04-02 22:00:03,799 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:00:04,298 - WARNING -  * Debugger is active!
+2025-04-02 22:00:04,304 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:00:05,242 - INFO - 127.0.0.1 - - [02/Apr/2025 22:00:05] "[33mGET /api HTTP/1.1[0m" 404 -
+2025-04-02 22:00:05,249 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\models.py', reloading
+2025-04-02 22:00:05,250 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\__init__.py', reloading
+2025-04-02 22:00:05,251 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\decoder.py', reloading
+2025-04-02 22:00:05,410 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:00:05,945 - WARNING -  * Debugger is active!
+2025-04-02 22:00:05,950 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:00:46,238 - INFO - 127.0.0.1 - - [02/Apr/2025 22:00:46] "[33mGET /api HTTP/1.1[0m" 404 -
+2025-04-02 22:00:55,221 - INFO - 127.0.0.1 - - [02/Apr/2025 22:00:55] "[33mGET /api HTTP/1.1[0m" 404 -
+2025-04-02 22:01:41,174 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:01:41,191 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:01:42,242 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:01:42,765 - WARNING -  * Debugger is active!
+2025-04-02 22:01:42,769 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:01:48,202 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\elements\\exception.py', reloading
+2025-04-02 22:01:48,203 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\error_util.py', reloading
+2025-04-02 22:01:48,849 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:01:49,330 - WARNING -  * Debugger is active!
+2025-04-02 22:01:49,334 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:03:36,195 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:03:36,215 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:03:36,589 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:03:36,980 - WARNING -  * Debugger is active!
+2025-04-02 22:03:36,984 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:03:40,101 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pandas\\core\\frame.py', reloading
+2025-04-02 22:03:40,102 - INFO -  * Detected change in 'C:\\Users\\vidis\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pandas\\core\\indexes\\base.py', reloading
+2025-04-02 22:03:41,061 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:03:41,519 - WARNING -  * Debugger is active!
+2025-04-02 22:03:41,527 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:08:08,292 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:08:08,293 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:08:08,294 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:08:09,021 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:08:09,414 - WARNING -  * Debugger is active!
+2025-04-02 22:08:09,419 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:08:48,059 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:08:48,061 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:08:48,065 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:08:48,545 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:08:49,013 - WARNING -  * Debugger is active!
+2025-04-02 22:08:49,018 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:25:57,699 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:25:57,703 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:25:57,704 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:25:58,700 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:25:59,214 - WARNING -  * Debugger is active!
+2025-04-02 22:25:59,219 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:27:40,369 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:27:40,370 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:27:40,372 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:27:40,466 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:27:40,895 - WARNING -  * Debugger is active!
+2025-04-02 22:27:40,900 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:42:45,583 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\alerts.py', reloading
+2025-04-02 22:42:46,549 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:42:47,090 - WARNING -  * Debugger is active!
+2025-04-02 22:42:47,096 - INFO -  * Debugger PIN: 330-094-464
+2025-04-02 22:50:39,981 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:50:40,003 - INFO -  * Detected change in 'C:\\Users\\vidis\\OneDrive\\Desktop\\BarclaysHacks\\dashboard.py', reloading
+2025-04-02 22:50:40,866 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-02 22:50:41,439 - WARNING -  * Debugger is active!
+2025-04-02 22:50:41,449 - INFO -  * Debugger PIN: 330-094-464

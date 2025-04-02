@@ -1,0 +1,9 @@
+WARNING:root:Detected 1 anomalies:
+   id  response_time    anomaly
+0   1          1.462  Anomalous
+WARNING:root:Detected 1 anomalies:
+   id  response_time    anomaly
+0   1          1.462  Anomalous
+WARNING:root:Detected 1 anomalies:
+   id  response_time    anomaly
+0   1          1.462  Anomalous
